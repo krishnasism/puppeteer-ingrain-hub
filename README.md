@@ -19,3 +19,6 @@ npm i puppeteer
 ```
 node index.js
 ```
+
+### Note
+Avast antivirus was blocking something which wasn't allowing the browser to open. I had to disable the shields temporarily to get the application to work. If such problem occurs, check if your antivirus is the cause of it. 
