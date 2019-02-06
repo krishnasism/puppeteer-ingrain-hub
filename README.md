@@ -7,6 +7,7 @@ A simple program to navigate to a web page using puppeteer
 Clone the project.
 Since pushing the project would have taken >100MB, and GitHub would have disabled the option to push the repository, therefore I had to remove the npm project files. 
 
+Open Command Prompt and browse to the cloned directory.
 ## Initialize the directory
 ```
 npm init
